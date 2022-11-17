@@ -39,7 +39,7 @@
     text-shadow: 0 0 2px var(--theme-color) !important;
 }
 
-/*ZITI*/
+/*字体*/
 @font-face {
     /* 为载入的字体取名字(随意) */
     font-family: 'YSHST';
@@ -51,4 +51,41 @@
     font-style: normal;
     /* 定义显示样式 */
     font-display: block;
+}
+
+/*鼠标指针滑稽*/
+body {
+    cursor: url(https://bu.dusays.com/2022/05/17/6283c365d20dd.png), auto;
+}
+
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+    display: block
+}
+
+a,
+button,
+img {
+    cursor: url(https://bu.dusays.com/2022/05/17/6283c376afcfc.png), auto
+}
+
+/*滚动条*/
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 2em;
+    /* background-color: rgba(73, 177, 245, .2); */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(255 255 255 / .3);
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);
+    border-radius: 2em
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent
 }
