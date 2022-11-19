@@ -150,9 +150,3 @@ img,
 button {
     cursor: url("https://cdn.jsdelivr.net/gh/xlenco/JS-X@main/mouse/link.cur"), default !important;
 }
-
-/*jiazi*/
-.loading-img {
-    background: url(https://youzi-blog.oss-cn-shanghai.aliyuncs.com/img/Avatar.JPG) no-repeat center center;
-    background-size: cover;
-}
