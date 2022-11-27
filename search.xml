@@ -4,11 +4,32 @@
   
     
     <entry>
+      <title>动漫分享</title>
+      <link href="/2022/11/27/dongman/"/>
+      <url>/2022/11/27/dongman/</url>
+      
+        <content type="html"><![CDATA[<h1 id="动漫推荐-amp-备忘录"><a href="#动漫推荐-amp-备忘录" class="headerlink" title="动漫推荐&amp;备忘录"></a>动漫推荐&amp;备忘录</h1><h2 id="自用视频资源站为-https-yhdmp-net"><a href="#自用视频资源站为-https-yhdmp-net" class="headerlink" title="自用视频资源站为 https://yhdmp.net"></a>自用视频资源站为 <a href="https://yhdmp.net">https://yhdmp.net</a></h2><h3 id="孤独摇滚！-感觉小波奇和我还有一点相似hh"><a href="#孤独摇滚！-感觉小波奇和我还有一点相似hh" class="headerlink" title="孤独摇滚！(感觉小波奇和我还有一点相似hh)"></a>孤独摇滚！(感觉小波奇和我还有一点相似hh)</h3><p><img src="https://youzi-blog.oss-cn-shanghai.aliyuncs.com/img/guduyaogun.jpg" alt="code"><br>别名:ぼっち・ざ・ろっく！ / Bocchi the Rock! </p><p>上映: 2022-10-08地区: 日本类型: 搞笑 百合 偶像 芳文社索引: G动漫标签: TV 10月 连载<br>更新至：00:30 第8集(每周日00:30更新)</p><p>动漫介绍<br>作为网络吉他手“吉他英雄”而广受好评的后藤一里，在现实中却是个什么都不会的沟通障碍者。一里有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的一里，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，一里与“结束乐队”的成员们一同开始努力……</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 柚子的备忘录 </category>
+          
+          <category> 推荐分享 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>搭建进度记录</title>
       <link href="/2022/11/09/2022-11-9%E6%97%A5%E8%AE%B0/"/>
       <url>/2022/11/09/2022-11-9%E6%97%A5%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<h3 id="因本人还在实习每天只能抽出一小段时间来管理博客…"><a href="#因本人还在实习每天只能抽出一小段时间来管理博客…" class="headerlink" title="因本人还在实习每天只能抽出一小段时间来管理博客…"></a>因本人还在实习每天只能抽出一小段时间来管理博客…</h3><h3 id="所以搭建进度会较慢"><a href="#所以搭建进度会较慢" class="headerlink" title="所以搭建进度会较慢"></a>所以搭建进度会较慢</h3><h1 id="搭建进度记录"><a href="#搭建进度记录" class="headerlink" title="搭建进度记录"></a>搭建进度记录</h1><h2 id="2022-11-9"><a href="#2022-11-9" class="headerlink" title="2022/11/9"></a>2022/11/9</h2><p>开始搭建个人blog 使用了Hexo框架与butterfly主题<br>完成了github和vercel的双线部署</p><h2 id="2022-11-10"><a href="#2022-11-10" class="headerlink" title="2022/11/10"></a>2022/11/10</h2><p>完成了主题的基础设置</p><h2 id="2022-11-11"><a href="#2022-11-11" class="headerlink" title="2022/11/11"></a>2022/11/11</h2><p>美化了blog</p><p>添加了live2d看板娘 haru模型<br>添加了留言板信封<br>添加了wowjs动画</p><h2 id="2022-11-12"><a href="#2022-11-12" class="headerlink" title="2022/11/12"></a>2022/11/12</h2><p>美化blog</p><p>添加了页脚计时器与github徽标<br>设置了自定义字体(优设好身体)</p><h2 id="2022-11-13"><a href="#2022-11-13" class="headerlink" title="2022/11/13"></a>2022/11/13</h2><p>美化blog</p><p>修改了页脚计时器  </p><p>完成了一半的导航栏居中和发光<br><del>预计14号下班后完成</del><br><del>预计11/17号完成…</del> (已完成)</p><h2 id="2022-11-14"><a href="#2022-11-14" class="headerlink" title="2022/11/14"></a>2022/11/14</h2><p>偷个小懒…</p><h2 id="2022-11-15"><a href="#2022-11-15" class="headerlink" title="2022/11/15"></a>2022/11/15</h2><p>继续偷懒 呼呼睡大觉</p><h2 id="2022-11-16"><a href="#2022-11-16" class="headerlink" title="2022/11/16"></a>2022/11/16</h2><p>添加全局吸底aplyer<br>修改了看板娘位置</p><p>预计11/17-18把图片上传至图库或本地</p><h2 id="2022-11-17"><a href="#2022-11-17" class="headerlink" title="2022/11/17"></a>2022/11/17</h2><p>添加了萌备案<br>添加了鼠标样式<br>上传了部分图片至阿里云oss<br>修改了网站图标</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="因本人还在实习每天只能抽出一小段时间来管理博客…"><a href="#因本人还在实习每天只能抽出一小段时间来管理博客…" class="headerlink" title="因本人还在实习每天只能抽出一小段时间来管理博客…"></a>因本人还在实习每天只能抽出一小段时间来管理博客…</h3><h3 id="所以搭建进度会较慢"><a href="#所以搭建进度会较慢" class="headerlink" title="所以搭建进度会较慢"></a>所以搭建进度会较慢</h3><h1 id="搭建进度记录"><a href="#搭建进度记录" class="headerlink" title="搭建进度记录"></a>搭建进度记录</h1><h2 id="2022-11-9"><a href="#2022-11-9" class="headerlink" title="2022/11/9"></a>2022/11/9</h2><p>开始搭建个人blog 使用了Hexo框架与butterfly主题<br>完成了github和vercel的双线部署</p><h2 id="2022-11-10"><a href="#2022-11-10" class="headerlink" title="2022/11/10"></a>2022/11/10</h2><p>完成了主题的基础设置</p><h2 id="2022-11-11"><a href="#2022-11-11" class="headerlink" title="2022/11/11"></a>2022/11/11</h2><p>美化了blog</p><p>添加了live2d看板娘 haru模型<br>添加了留言板信封<br>添加了wowjs动画</p><h2 id="2022-11-12"><a href="#2022-11-12" class="headerlink" title="2022/11/12"></a>2022/11/12</h2><p>美化blog</p><p>添加了页脚计时器与github徽标<br>设置了自定义字体(优设好身体)</p><h2 id="2022-11-13"><a href="#2022-11-13" class="headerlink" title="2022/11/13"></a>2022/11/13</h2><p>美化blog</p><p>修改了页脚计时器  </p><p>完成了一半的导航栏居中和发光<br><del>预计14号下班后完成</del><br><del>预计11/17号完成…</del> (已完成)</p><h2 id="2022-11-14"><a href="#2022-11-14" class="headerlink" title="2022/11/14"></a>2022/11/14</h2><p>偷个小懒…</p><h2 id="2022-11-15"><a href="#2022-11-15" class="headerlink" title="2022/11/15"></a>2022/11/15</h2><p>继续偷懒 呼呼睡大觉</p><h2 id="2022-11-16"><a href="#2022-11-16" class="headerlink" title="2022/11/16"></a>2022/11/16</h2><p>添加全局吸底aplyer<br>修改了看板娘位置</p><p>预计11/17-18把图片上传至图库或本地</p><h2 id="2022-11-17"><a href="#2022-11-17" class="headerlink" title="2022/11/17"></a>2022/11/17</h2><p>添加了萌备案<br>添加了鼠标样式<br>上传了部分图片至阿里云oss<br>修改了网站图标</p><h2 id="2022-11-27"><a href="#2022-11-27" class="headerlink" title="2022/11/27"></a>2022/11/27</h2><p>休息了几天<br>修改了太多东西懒得记录了…<br>美化基本完成<br>还剩部分优化</p>]]></content>
       
       
       
