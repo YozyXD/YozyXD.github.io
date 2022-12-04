@@ -4,11 +4,30 @@
   
     
     <entry>
+      <title>Yunzai-bot 原神bot</title>
+      <link href="/2022/12/04/yunzai/"/>
+      <url>/2022/12/04/yunzai/</url>
+      
+        <content type="html"><![CDATA[<h1 id="是否想拥有一个属于自己的云仔？那就跟着我一起吧"><a href="#是否想拥有一个属于自己的云仔？那就跟着我一起吧" class="headerlink" title="是否想拥有一个属于自己的云仔？那就跟着我一起吧!"></a>是否想拥有一个属于自己的云仔？那就跟着我一起吧!</h1><h2 id="环境准备：Windows-or-Linux，Node-js（版本至少v16以上），Redis"><a href="#环境准备：Windows-or-Linux，Node-js（版本至少v16以上），Redis" class="headerlink" title="环境准备：Windows or Linux，Node.js（版本至少v16以上），Redis"></a>环境准备：Windows or Linux，Node.js（版本至少v16以上），Redis</h2><h2 id="一-Node的安装"><a href="#一-Node的安装" class="headerlink" title="一.Node的安装"></a>一.Node的安装</h2><p>1.打开 Node 官网，下载和自己系统相配的 Node 的安装程序，否则会出现安装问题。下载地址：<a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a><br>2.安装完成后，检查是否安装成功。在键盘按下 win + R 键，输入 CMD，然后回车，打开 CMD 窗口，执行 node -v 命令，看到版本信息，则说明安装成功。</p><h2 id="二-安装Redis"><a href="#二-安装Redis" class="headerlink" title="二.安装Redis"></a>二.安装Redis</h2><p><a href="https://redis.io/docs/getting-started/installation/">https://redis.io/docs/getting-started/installation/</a>  </p><h2 id="三-YunzaiV3的安装"><a href="#三-YunzaiV3的安装" class="headerlink" title="三.YunzaiV3的安装"></a>三.YunzaiV3的安装</h2><p>1.克隆项目<br>在 Git BASH 输入如下命令安装<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone --depth=1 -b main https://github.com/Le-niao/Yunzai-Bot.git</span><br></pre></td></tr></table></figure><br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd Yunzai-Bot #进入Yunzai目录</span><br></pre></td></tr></table></figure><br>2.安装pnpm，已安装的可以跳过<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install pnpm -g</span><br></pre></td></tr></table></figure><br>3.安装依赖<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pnpm install -P</span><br></pre></td></tr></table></figure><br>4.运行（首次运行按提示输入登录）<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">node app</span><br></pre></td></tr></table></figure></p><h2 id="至此完成了Yunzai的安装"><a href="#至此完成了Yunzai的安装" class="headerlink" title="至此完成了Yunzai的安装"></a>至此完成了Yunzai的安装</h2><hr><h3 id="Yunzai的个性化修改"><a href="#Yunzai的个性化修改" class="headerlink" title="Yunzai的个性化修改"></a>Yunzai的个性化修改</h3><p>在config文件夹内可以按照个人喜好更改<br>插件等可从github或gitee自行搜索下载。<br>Yunzai插件索引: <a href="https://github.com/yhArcadia/Yunzai-Bot-plugins-index#%E6%8F%92%E4%BB%B6%E5%8C%85plugin%E7%B4%A2%E5%BC%95">https://github.com/yhArcadia/Yunzai-Bot-plugins-index#%E6%8F%92%E4%BB%B6%E5%8C%85plugin%E7%B4%A2%E5%BC%95</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>动漫分享</title>
       <link href="/2022/11/27/dongman/"/>
       <url>/2022/11/27/dongman/</url>
       
-        <content type="html"><![CDATA[<h1 id="动漫推荐-amp-备忘录"><a href="#动漫推荐-amp-备忘录" class="headerlink" title="动漫推荐&amp;备忘录"></a>动漫推荐&amp;备忘录</h1><h2 id="自用视频资源站为-https-yhdmp-net"><a href="#自用视频资源站为-https-yhdmp-net" class="headerlink" title="自用视频资源站为 https://yhdmp.net"></a>自用视频资源站为 <a href="https://yhdmp.net">https://yhdmp.net</a></h2><h3 id="孤独摇滚！-感觉小波奇和我还有一点相似hh"><a href="#孤独摇滚！-感觉小波奇和我还有一点相似hh" class="headerlink" title="孤独摇滚！(感觉小波奇和我还有一点相似hh)"></a>孤独摇滚！(感觉小波奇和我还有一点相似hh)</h3><p><img src="https://youzi-blog.oss-cn-shanghai.aliyuncs.com/img/guduyaogun.jpg" alt="code"><br>别名:ぼっち・ざ・ろっく！ / Bocchi the Rock! </p><p>上映: 2022-10-08地区: 日本类型: 搞笑 百合 偶像 芳文社索引: G动漫标签: TV 10月 连载<br>更新至：00:30 第8集(每周日00:30更新)</p><p>动漫介绍<br>作为网络吉他手“吉他英雄”而广受好评的后藤一里，在现实中却是个什么都不会的沟通障碍者。一里有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的一里，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，一里与“结束乐队”的成员们一同开始努力……</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="动漫推荐-amp-备忘录"><a href="#动漫推荐-amp-备忘录" class="headerlink" title="动漫推荐&amp;备忘录"></a>动漫推荐&amp;备忘录</h1><h2 id="自用视频资源站为-https-yhdmp-net"><a href="#自用视频资源站为-https-yhdmp-net" class="headerlink" title="自用视频资源站为 https://yhdmp.net"></a>自用视频资源站为 <a href="https://yhdmp.net">https://yhdmp.net</a></h2><h3 id="孤独摇滚！"><a href="#孤独摇滚！" class="headerlink" title="孤独摇滚！"></a>孤独摇滚！</h3><p><img src="https://youzi-blog.oss-cn-shanghai.aliyuncs.com/img/guduyaogun.jpg" alt="code"><br>别名:ぼっち・ざ・ろっく！ / Bocchi the Rock! </p><p>上映: 2022-10-08地区: 日本类型: 搞笑 百合 偶像 芳文社索引: G动漫标签: TV 10月 连载<br>更新至：00:30 第8集(每周日00:30更新)</p><p>动漫介绍<br>作为网络吉他手“吉他英雄”而广受好评的后藤一里，在现实中却是个什么都不会的沟通障碍者。一里有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的一里，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，一里与“结束乐队”的成员们一同开始努力……</p>]]></content>
       
       
       <categories>
